@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.vbproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.frmMain.resources
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.Resources.resources
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\bin\Debug\Rembrandt.exe.config
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\bin\Debug\Rembrandt.exe
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\bin\Debug\Rembrandt.pdb
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\bin\Debug\Rembrandt.xml
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.exe
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.xml
+C:\Users\dell\source\repos\Rembrandt\Rembrandt\obj\Debug\Rembrandt.pdb
